@@ -31,7 +31,7 @@ Run the migrations and (optionally) seed the database:
 
 ```sh
 # this is a convenience script that runs db:touch, db:generate, db:migrate, and db:seed
-npm run db:setup
+npm run db:setupasdsa
 ```
 
 Run the development server:
