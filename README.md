@@ -12,7 +12,7 @@ There is also an [Awesome HONC collection](https://github.com/fiberplane/awesome
 ### Project structure
 
 ```#
-├── src
+├── srcasd
 │   ├── index.ts # Hono app entry point
 │   └── db
 │       └── schema.ts # Database schema
